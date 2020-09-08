@@ -5,7 +5,7 @@ Welcome to spotify playlist creator, your destination for generating random play
 ## Installation
 
 * Clone/download this repository
-* Get developer credentials from [Spotify Developer portal](https://developer.spotify.com/dashboard/login)
+* Get developer credentials from [Spotify Developer portal](https://developer.spotify.com/dashboard/login), make sure to set the callback URI as `http://localhost:8080/callback`.
 * Python 3
 * Install dependencies
 
